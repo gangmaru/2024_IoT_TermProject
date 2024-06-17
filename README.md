@@ -1,4 +1,3 @@
-# 2024_IoT_TermProject
 ## Human Activity Recognition with Wi-Fi Sensing
 A Wi-Fi sensing program that converts and visualizes a pcap file that recognizes five actions of a user into csv, communicates in real time on a server and a client, and recognizes five actions of a user.
 As a tool for collecting Wi-Fi csi, firmware is installed on Raspberry Pi 3 to collect csi. 
